@@ -94,4 +94,4 @@ Module 2 is focused on analyzing and predicting outcomes based on fundus images.
    - Example: {Sex: Female; Age: 47; BMI: 22.13 kg/m^2;....}
 #### Step 3: Combine the clinical metadata with the results from Module 1
    - Example: {Sex: Female; Age: 47; BMI: 22.13 kg/m^2;....; Fundus Image Quality: Gradable; DR Grade: 0; DME Grade: 0; Presence of Retinal Lesions: No microaneurysms, no cotton-wool spots, no hard exudates, no hemorrhages.}
-#### Step 4: Input the combined data from Step 3 into Module 2 to obtain the final output
+#### Step 4: Input the combined data from Step 3 into Module 1 to obtain the final output
